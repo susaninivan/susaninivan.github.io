@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
 
 .timer {
-height: 40px;
+max-width: 200px;
+max-height: 40px;
 background-color: green;
 color: white;
 font-weight: bold;
@@ -25,7 +26,7 @@ font-size: 20pt;
 font-size: 14pt;
 }
 
-.title_icon
+.description__title_icon
 {
 font-size: 15pt;
 }
@@ -56,5 +57,5 @@ margin-bottom: 10px;
 }
 .icon_dropdown
 {
-margin-top: 15px;
+margin-top: 10px;
 }
